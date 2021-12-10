@@ -1,0 +1,11 @@
+version: 2.0.0
+files:
+  - url: chatwerk-inbox-2.0.0-universal-mac.zip
+    sha512: gjX1SDERc5k0bhtvvykB2gi7C71HEmZMQi1CAlvGTLOzSC9vus5xPBjmgbeZw4r8hVn0w0K6zbIyAG329OHpOg==
+    size: 313451691
+  - url: chatwerk-inbox-2.0.0-universal.dmg
+    sha512: 4FMOLa6mR8anB/bFfbE0qqGuT/XMeITAgjiUQ9kXJQgcOsbqNYrQ89jHe5fSS7VGX2Mex56N6kfzE05Yo6G/5w==
+    size: 320810570
+path: chatwerk-inbox-2.0.0-universal-mac.zip
+sha512: gjX1SDERc5k0bhtvvykB2gi7C71HEmZMQi1CAlvGTLOzSC9vus5xPBjmgbeZw4r8hVn0w0K6zbIyAG329OHpOg==
+releaseDate: '2021-12-10T08:37:07.747Z'
